@@ -1,2 +1,13 @@
-# Calculator-App-Python-
-A beginner-level Python project that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input. Built using Python functions, conditional statements, and input handling.
+🧮 Python Calculator
+
+A simple Python-based Calculator project that performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division.
+This was created as a beginner project during my Python learning journey, to practice functions, conditional statements, and input handling.
+
+
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+User input for numbers and operator\
+Error handling for invalid operators
+
